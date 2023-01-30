@@ -1,6 +1,6 @@
 # A simple Asteroid game made with Pixi
 
-A game built for job a interview programming test
+A game built for portfolio
 
 
 ### How to download and run it
