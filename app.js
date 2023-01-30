@@ -1,5 +1,5 @@
 "use strict";
-
+//to lock or avoid errors use strict
 var express = require('express');
 var app = express();
 var server = require('http').Server(app);
@@ -7,7 +7,7 @@ var server = require('http').Server(app);
 //use path object to make server platform agnostic
 var path	= require('path');
 
-//open port for game to be played on
+//open port for game to be played 
 var sitePath = process.argv[2] || ".";
 var port = 7777;
 var address = "http://localhost:";
