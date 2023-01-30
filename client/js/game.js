@@ -1,4 +1,4 @@
-//setup game constants
+//setup game constants never changig vars
 var _container      = PIXI.container;
 var _renderEngine   = PIXI.autoDetectRenderer;
 var _loader         = PIXI.loader;
